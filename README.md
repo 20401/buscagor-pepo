@@ -12,3 +12,9 @@ también de rayas rojas y blancas. Además,
 suele llevar complementos como cámaras de fotos colgadas al cuello, 
 enseres de camping o libros, su bastón, que en ocasiones 
 acaba perdiendo, por lo que también deben ser buscados por el lector/jugador.
+
+## dale click en el enlace y luego inicia a darle click buscando al jugador pepo que es muy escuridiso 
+
+### https://20401.github.io/buscagor-pepo/
+
+https://user-images.githubusercontent.com/83643717/153136562-1b060926-cd1c-487e-96a6-bb94d2a26621.png
