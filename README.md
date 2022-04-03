@@ -18,5 +18,4 @@ acaba perdiendo, por lo que también deben ser buscados por el lector/jugador.
 
 ### https://20401.github.io/buscagor-pepo/
 
- <a href="https://20401.github.io/buscagor-pepo/" ![Screenshot 2022-02-09 at 01-43-33 Busca a Pepo](https://user-images.githubusercontent.com/83643717/153139914-510c05a2-01e1-4eb1-a368-02a60c8428d5.png)
-
+ <a href="https://20401.github.io/buscagor-pepo/"><img src="https://user-images.githubusercontent.com/83643717/153139914-510c05a2-01e1-4eb1-a368-02a60c8428d5.png" title="source: imgur.com" /></a>
