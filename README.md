@@ -1,5 +1,5 @@
 # busca a pepo
-este es un juego dise;ado pensando en la utlizacion 
+Este es un juego dise;ado pensando en la utlizacion 
 comprencion de los espacios y las dimenciones aqui
 se logro contribuir ilustrado en el juego buscando a wally
 es una serie de libros creada por el 
